@@ -1,8 +1,10 @@
 # List of Project (School)
-- [https://github.com/Ticlext-Altihaf/lms-laravel](https://github.com/Ticlext-Altihaf/lms-laravel) PHP, Laravel, MySQL
-- [https://github.com/Ticlext-Altihaf/breeze-next-lms](https://github.com/Ticlext-Altihaf/breeze-next-lms) Next.Js, Javascript, REST API
-- [https://github.com/itclub-one/web-eskull](https://github.com/itclub-one/web-eskull) PHP, Laravel, MySQL
-- [https://github.com/Ticlext-Altihaf/arduino-firehouse](https://github.com/Ticlext-Altihaf/arduino-firehouse) C++, Arduino
+| Repository                                                                | Technologies                  | Description                                                           |
+| ------------------------------------------------------------------------- | ----------------------------- | --------------------------------------------------------------------- |
+| [lms-laravel](https://github.com/Ticlext-Altihaf/lms-laravel)             | PHP, Laravel, MySQL           | Learning Management System built with Laravel, supports REST API      |
+| [breeze-next-lms](https://github.com/Ticlext-Altihaf/breeze-next-lms)     | Next.Js, JavaScript, REST API | React-based Frontend for LMS written in Laravel                       |
+| [web-eskull](https://github.com/itclub-one/web-eskull)                    | PHP, Laravel, MySQL           | Website for ekstrakurikuler.smknegeri1garut.sch.id written in Laravel |
+| [arduino-firehouse](https://github.com/Ticlext-Altihaf/arduino-firehouse) | C++, Arduino                  | Firetruck with Arduino and water                                      |
 
 # Other/More Project
 
