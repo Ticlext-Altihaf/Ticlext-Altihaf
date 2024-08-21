@@ -15,8 +15,8 @@ I describe myself with this image:
 
 
 
-Discord: @ticlextaltihaf (Rarely there tho)
-Instagram: @yusuf_sekhan_althaf
+Discord: @ticlextaltihaf (Rarely there tho)\
+Instagram: @yusuf_sekhan_althaf\
 X (Formerly Twitter): No, Never
 
 # 📊 GitHub Stats:
