@@ -1,20 +1,5 @@
 # List of Projects
 
-## Web Scrapping & Warehouse Management Application
-Tech: Rust, Vue.js, TypeScript, Database Management, Web Scraping, Browser Automation
-Role: One man army
-Type: Private Project
-
-Developed a robust desktop application warehouse management with Nike integration, integrating a secure licensing system with asymmetric encryption to prevent unauthorized access. Implemented full CRUD operations for efficient data handling, including CSV import/export and encrypted local database storage. Enhanced functionality with cloud sync, web crawling for automated data updates, and seamless automatic app updates.
-
-
-![image](https://github.com/user-attachments/assets/f16d6aa6-0554-4a36-8069-cd1f863f4c89)
-
-
-https://github.com/user-attachments/assets/f783aa32-ba96-46e7-bd41-a60fae184468
-
-
-
 
 ## Nutri Fi Grade: AI-Powered Nutrition Awareness App
 
@@ -29,3 +14,26 @@ Skills and deliverables
 ![image](https://github.com/user-attachments/assets/03403933-2966-46c9-8c40-31cd80dbfcf8)
 ![image](https://github.com/user-attachments/assets/37139880-99ce-4dcd-b4e8-0d0ccbb075e8)
 ![image](https://github.com/user-attachments/assets/6ac70702-5f19-460c-a341-dc4a10589352)
+
+
+## Web Scrapping & Warehouse Management Application
+Tech: Rust, Vue.js, TypeScript, Database Management, Web Scraping, Browser Automation
+Role: One man army
+Type: Private Project
+
+Developed a robust desktop application warehouse management with Nike integration, integrating a secure licensing system with asymmetric encryption to prevent unauthorized access. Implemented full CRUD operations for efficient data handling, including CSV import/export and encrypted local database storage. Enhanced functionality with cloud sync, web crawling for automated data updates, and seamless automatic app updates.
+
+
+![image](https://github.com/user-attachments/assets/f16d6aa6-0554-4a36-8069-cd1f863f4c89)
+
+
+https://github.com/user-attachments/assets/f783aa32-ba96-46e7-bd41-a60fae184468
+
+
+## TokenBasedScript
+Tech: ASP.NET, MySQL, REST-API, Stripe
+Role: One man army
+Type: Public Project
+Link: https://github.com/Itzbenz/TokenBasedScript-DotNetAsp
+
+Like a vending machine except you execute a script or get a license
