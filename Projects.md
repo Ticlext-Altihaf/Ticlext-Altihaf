@@ -49,3 +49,35 @@ Type: Public Project\
 Link: https://github.com/Itzbenz/TokenBasedScript-DotNetAsp\
 
 Like a vending machine except you execute a script or get a license
+
+### AWS National Competition
+Tech: AWS, Docker, Containerization, Linux, CI/CD\
+Role: One man army\
+Type: Competition\
+Link: https://www.linkedin.com/in/yusuf-sekhan-althaf/details/certifications/urn:li:fsd_profileCertification:(ACoAADiuxUEBqUsrcKEJM93dzMzVyeG2RLQ5aus,754066707)/treasury/
+
+![image](https://github.com/user-attachments/assets/5d1c8bff-02c6-4df3-a326-ac33df0b95ed)
+![image](https://github.com/user-attachments/assets/b75ad037-7372-4302-aba1-04ef4a93c29c)
+
+
+# Random Useless Projects 
+
+## sentry-webhook-event-pusher
+Tech: Rust\
+Link: https://github.com/Ticlext-Altihaf/sentry-webhook-event-pusher
+
+![image](https://github.com/user-attachments/assets/fbc0779c-b5a9-405f-afe2-490c94621d4a)
+
+## Tokopedia Delivery Notification - Windows Push Notification
+Tech: Javascript\
+Link: https://github.com/Ticlext-Altihaf/tokopedia-delivery-check
+
+![image](https://github.com/user-attachments/assets/5ca05fbc-fb4a-4aca-aadc-a450d8447127)
+
+## Absen Kamera
+Tech: Python, KNN\
+Link: https://github.com/Ticlext-Altihaf/Absen-Kamera
+
+## Arduino Simple Robot - Firefighter WiFi Controlled
+Tech: C++, Arduino\
+Link: https://github.com/Ticlext-Altihaf/arduino-firehouse
