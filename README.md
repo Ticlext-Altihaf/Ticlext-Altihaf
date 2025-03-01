@@ -1,7 +1,7 @@
 
 # What
 
-I'm Althaf, an 18 y.o self proclaimed millionare (in local currency) tech lead from Jakarta, Indonesia.
+I'm Althaf, a self proclaimed millionare (in local currency) tech lead from Jakarta, Indonesia.
 
 That means I solve problems that no one solved yet, not problem like "What is beauty?" because that would fall within the purview of your conundrums of philosophy.
 
