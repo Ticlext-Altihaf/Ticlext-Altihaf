@@ -9,15 +9,7 @@ I can do most of popular programming language e.g Javascript, Python, Java, C#, 
 
 I like strongly typed language like C# and Rust, my strongest dislike is Javascript (I can't escape this).
 
-I describe myself with this image:
 
-![image](https://github.com/user-attachments/assets/307d55b4-3e63-406a-b548-196959f385e9)
-
-
-
-Discord: @ticlextaltihaf (Rarely there tho)\
-Instagram: @yusuf_sekhan_althafx\
-X (Formerly Twitter): No, Never
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ticlext-Altihaf&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
